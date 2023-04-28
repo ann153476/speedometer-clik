@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/speedometer-clik/static/css/main.09277c68.css",
+    "main.js": "/speedometer-clik/static/js/main.c427d204.js",
+    "index.html": "/speedometer-clik/index.html",
+    "main.09277c68.css.map": "/speedometer-clik/static/css/main.09277c68.css.map",
+    "main.c427d204.js.map": "/speedometer-clik/static/js/main.c427d204.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09277c68.css",
+    "static/js/main.c427d204.js"
+  ]
+}
